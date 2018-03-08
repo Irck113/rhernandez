@@ -1,0 +1,55 @@
+body{
+	background-color: #b2dfdb;
+}
+h1{
+	color: #3f51b5
+}
+
+h2{
+	color: #5c6bc0;
+}
+
+h3{
+	text-align: center;
+	font-size: 2em;
+	color: #795548;
+}
+
+h4{
+	text-align: center;
+	font-size: 1em;
+	color: #b71c1c;
+}
+
+form{
+	background-color: #b39ddb;
+}
+
+footer{
+	background-color: black;
+	padding: 15px 5px;
+	text-align: center;
+}
+
+footer a{
+	color: white;
+	text-decoration: none;
+	margin: 4px;
+}
+
+footer a:hover{
+	color: #9e9e9e;
+}
+
+li{
+	margin: 8px;
+}
+
+input#comentario{
+	padding: 20px 60px;
+}
+
+input{
+	margin: 15px 5px; 
+}
+
