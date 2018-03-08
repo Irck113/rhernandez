@@ -23,7 +23,7 @@
                                 <input name = "email" type = "text"/>
 				</br>
 				<label for = "comentario">Comentarios: </label>
-                                <input name = "comentario" id = "comentario" type = "textbox"/>
+                                <textarea name = "comentario"></textarea>
 				</br>
 				<button>Enviar</button>
 			</fieldset>

@@ -20,7 +20,9 @@ h4{
 	font-size: 1em;
 	color: #b71c1c;
 }
-
+textarea{
+	padding: 3px;
+}
 form{
 	background-color: #b39ddb;
 }
